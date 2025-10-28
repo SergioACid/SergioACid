@@ -18,11 +18,11 @@ const sergio = {
     rol: "Desarrollador Full Stack",
     educacion: "Grado Superior en Desarrollo de Aplicaciones Web",
     actualmente: "Construyendo proyectos innovadores y aprendiendo nuevas tecnologías",
-    intereses: ["Desarrollo Web", "APIs RESTful", "IA", "Open Source"],
+    intereses: ["Desarrollo Web", "APIs RESTful", "IA", "Open Source","BigData"],
     metodologias: ["Kanban", "Desarrollo Ágil", "Buenas Prácticas"],
     idiomas: {
         castellano: "Nativo",
-        ingles: "Intermedio (B1-B2)"
+        ingles: "Intermedio (B2)"
     }
 };
 \`\`\`
@@ -73,40 +73,6 @@ const sergio = {
 
 ---
 
-## 🏆 Proyectos Destacados
-
-### 🎵 SONAURA - Plataforma Narrativa Interactiva
-> **TFG - Proyecto de Fin de Grado**
-
-**Descripción:** Plataforma web innovadora que combina narrativa interactiva con tecnología moderna.
-
-**Stack Tecnológico:**
-- 🎨 Frontend: HTML5, CSS3, JavaScript
-- ⚙️ Backend: Django (Python) con API RESTful
-- 🗄️ Base de Datos: MySQL
-- 🚀 Deployment: PythonAnywhere
-- 📦 Control de versiones: Git & GitHub
-
-**Características:**
-- ✨ Interfaz dinámica y responsive
-- 🔐 Arquitectura backend robusta y escalable
-- 🔄 API RESTful para comunicación cliente-servidor
-- 📱 Diseño adaptativo para múltiples dispositivos
-
----
-
-## 💼 Experiencia Profesional
-
-### 🐾 Pawify.org - Desarrollador Full Stack
-**Marzo 2025 - Julio 2025**
-
-- 🎨 **Frontend:** Desarrollo de interfaces con React, maquetación HTML5/CSS3, interacciones JavaScript
-- ⚙️ **Backend:** Lógica de servidor con Python, integración API RESTful, gestión de bases de datos
-- 🔄 Manejo de peticiones HTTP y procesamiento de datos
-- 👥 Trabajo en equipo con metodologías ágiles
-
----
-
 ## 📫 Conecta Conmigo
 
 <p align="center">
@@ -146,23 +112,3 @@ const sergio = {
 </div>
 \`\`\`
 
-## 🎨 Características del README:
-
-✅ **Animación del nombre** - Efecto de escritura de izquierda a derecha con typing-svg
-✅ **Tecnologías visuales** - Badges coloridos con logos de cada tecnología
-✅ **Organización clara** - Secciones bien definidas (Frontend, Backend, Bases de Datos, IA)
-✅ **Estadísticas de GitHub** - Gráficos automáticos de tus contribuciones
-✅ **Proyecto destacado** - SONAURA con descripción detallada
-✅ **Experiencia profesional** - Pawify.org con emojis descriptivos
-✅ **Contacto visual** - Botones llamativos para email, LinkedIn y GitHub
-✅ **Animación snake** - Serpiente que come tus contribuciones (muy popular)
-✅ **Contador de visitas** - Para ver cuánta gente visita tu perfil
-
-## 📝 Instrucciones de uso:
-
-1. Crea un repositorio con tu nombre de usuario: `SergioACid/SergioACid`
-2. Copia este contenido en un archivo `README.md`
-3. Reemplaza `SergioACid` por tu username real de GitHub en todas las URLs
-4. ¡Commit y push! Tu perfil se actualizará automáticamente
-
-El README es completamente funcional y las imágenes/badges se generan dinámicamente. ¡Tu perfil se verá profesional y llamativo! 🚀
